@@ -3,7 +3,7 @@
 Name:           python-kivy
 Version:        1.6.0
 Release:        1
-URL:            http://kivy.org/
+URL:            https://kivy.org/
 Summary:        Hardware-accelerated multitouch application library
 License:        LGPLv3
 Group:          Development/Python
